@@ -8,3 +8,4 @@ a=10
 b=20
 sum1 = add1(a,b)
 print("The result is:",sum1)
+print("Addition done successfully")

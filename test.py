@@ -4,6 +4,7 @@ def add1(a,b):
   return(c)
 
 #main
+print("Hello world")
 a=10
 b=20
 sum1 = add1(a,b)

@@ -1,1 +1,6 @@
-test.py
+.idea/
+*.pytest_cache
+*.pyc
+*.log
+*.egg-info
+.python-version

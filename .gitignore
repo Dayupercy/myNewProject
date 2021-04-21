@@ -1,9 +1,0 @@
-.idea/
-*.pytest_cache
-*.pyc
-*.log
-*.egg-info
-.python-version
-venv/
-__pycache__
-*.xml
